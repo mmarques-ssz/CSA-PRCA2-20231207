@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\projetoArqTexto\projetoArqTexto\obj\Debug\projetoArqTexto.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projetoArqTexto\projetoArqTexto\obj\Debug\projetoArqTexto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projetoArqTexto\projetoArqTexto\bin\Debug\projetoArqTexto.exe.config
+C:\Users\aluno\source\repos\projetoArqTexto\projetoArqTexto\bin\Debug\projetoArqTexto.exe
+C:\Users\aluno\source\repos\projetoArqTexto\projetoArqTexto\bin\Debug\projetoArqTexto.pdb
+C:\Users\aluno\source\repos\projetoArqTexto\projetoArqTexto\obj\Debug\projetoArqTexto.exe
+C:\Users\aluno\source\repos\projetoArqTexto\projetoArqTexto\obj\Debug\projetoArqTexto.pdb
